@@ -1,0 +1,4 @@
+Hello world! 
+My name is iDLEWINK!
+This is an update status test after moving the working directory of the repository.
+Thank you and have a nice day!
